@@ -1,0 +1,28 @@
+
+h1 {
+  color: red;
+  font-size: 200px;
+}
+
+/*************************** Selectors **********************************/
+/*
+img {
+  background-color: red;
+}
+*/
+
+/***************************** Class Selectors **************************/
+
+.bacon {
+  background-color: red;
+}
+
+.broccoli {
+  background-color: green;
+}
+
+/***************************** Id Selectors **************************/
+
+#heading {
+  color: blue;
+}
